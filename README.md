@@ -8,7 +8,7 @@ Computer Science (Bachelor in Data Engineering) Student
 * ✉️  You can contact me at [umarrusyad@gmail.com](mailto:umarrusyad@gmail.com)
 * 🧠  I'm learning C++ at Universiti Teknologi Malaysia
   
-[Website](file:///C:/Users/Umar/Downloads/DevFolio/index.html)
+[Website](umar-05.github.io)
 
 ### Skills
 
@@ -36,5 +36,7 @@ Computer Science (Bachelor in Data Engineering) Student
 [Digital Logic](https://github.com/umar-05/Digital-Logic)
 
 [Programming Technique I](https://github.com/umar-05/Programming-Technique-I)
+
+[Technology Information System](https://github.com/umar-05/TIS)
 
 ---
